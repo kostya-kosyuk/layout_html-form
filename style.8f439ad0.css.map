@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,IACE,eACF,CAEA,SACE,kBACF,CAEA,iBACE,YACF","file":"style.8f439ad0.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\ndiv {\n  margin-top: 10px;\n}\n\nfieldset {\n  margin-bottom: 20px;\n}\n\ndiv:nth-child(2) {\n  margin-top: 0;\n}\n"]}
